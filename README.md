@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   <a href="https://tenor.com/view/pengu-pudgy-penguin-pudgypenguins-stock-market-gif-8746293078017094853">
     <img
       src="https://media1.tenor.com/m/eWETNvCqtMUAAAAC/pengu-pudgy.gif"
-      width="70%"
-      height="450"
+      width= "550"
+      height="550"
       alt="Animated Pudgy Penguin stock market GIF"/>
   </a>
 </p>

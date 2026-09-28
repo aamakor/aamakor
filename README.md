@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<!-- 1. LinkedIn fixed using a secure Shields.io badge image -->
+<a href="https://www.linkedin.com/in/augustina-amakor-a85419146/" target="_blank">
+  <img src="https://shields.io" height="35" alt="LinkedIn"/>
+</a>
+
+<!-- 2. Instagram fixed using the direct raw media link from Tenor's CDN servers -->
+
+<img src="https://tenor.com" height="50" alt="Stock Market Penguin"/>
